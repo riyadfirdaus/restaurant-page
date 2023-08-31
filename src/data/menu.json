@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Nasi Goreng",
+    "description": "A classic Indonesian fried rice dish with a mix of vegetables, chicken, and shrimp, served with a fried egg on top.",
+    "price": 9.99
+  },
+  {
+    "name": "Rendang",
+    "description": "Tender beef slow-cooked in a rich and flavorful coconut milk and spice mixture, served with steamed rice.",
+    "price": 14.5
+  },
+  {
+    "name": "Sate Ayam",
+    "description": "Grilled chicken skewers marinated in a fragrant blend of spices, served with peanut sauce and a side of rice cake.",
+    "price": 8.75
+  },
+  {
+    "name": "Gado-Gado",
+    "description": "A mixed vegetable salad with tofu, tempeh, boiled egg, and peanut sauce dressing.",
+    "price": 7.25
+  },
+  {
+    "name": "Soto Betawi",
+    "description": "A Jakarta-style beef soup with a coconut milk base, flavored with aromatic spices and served with rice cakes.",
+    "price": 10.2
+  },
+  {
+    "name": "Pisang Goreng",
+    "description": "Deep-fried banana fritters with a crispy exterior and soft, sweet interior.",
+    "price": 4.5
+  },
+  {
+    "name": "Ayam Penyet",
+    "description": "Fried chicken that's been smashed and served with spicy sambal, cucumber, and fried tofu.",
+    "price": 9.25
+  },
+  {
+    "name": "Bakso",
+    "description": "Indonesian meatball soup with a flavorful broth, noodles, and a variety of meatballs.",
+    "price": 6.99
+  },
+  {
+    "name": "Udang Sambal",
+    "description": "Stir-fried prawns in a spicy chili sauce, served with steamed rice.",
+    "price": 12.8
+  }
+]
